@@ -1,0 +1,3 @@
+Use data_ipl;
+SELECT `PLAYER NAME`, `PLAYING ROLE`,COUNTRY
+FROM ipl;
